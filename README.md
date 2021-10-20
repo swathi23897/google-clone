@@ -16,6 +16,3 @@ You will also see any lint errors in the console.
 ### Deployment
 https://clone-7bdab.web.app/
 
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
